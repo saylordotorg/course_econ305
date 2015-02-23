@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON305: Public Finance"
+course_description: "An examination of the effects of different types of tax and subsidy policies, and of government failure. Analyzes the effects of economic incentives on voters, government officials, economy and markets, macro-economic considerations in public finance and the trends in the US economy."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Taxes** <span id="2"></span> 
 *In this unit, we will familiarize ourselves with the different kinds of
 taxes that exist in policy today, including those that are less

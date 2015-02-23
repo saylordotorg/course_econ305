@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON305: Public Finance"
+course_description: "An examination of the effects of different types of tax and subsidy policies, and of government failure. Analyzes the effects of economic incentives on voters, government officials, economy and markets, macro-economic considerations in public finance and the trends in the US economy."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Subsidies** <span id="3"></span> 
 *Subsidies are expenditures by the government intended to support an
 activity that politicians or government bureaucrats think society needs
