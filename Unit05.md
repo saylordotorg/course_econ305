@@ -43,7 +43,7 @@ sustainability will be the subject of the last sections of this unit.*
 **5.1.1 Keynesianism and Fiscal Stimulus** <span id="5.1.1"></span> 
 -   **Reading: Wikipedia’s “Keynesian Economics”**
     Link: Wikipedia’s [“Keynesian
-    Economics”](http://www.saylor.org/site/wp-content/uploads/2012/06/KeynesianEconomics.pdf)
+    Economics”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/KeynesianEconomics.pdf)
     (PDF)  
         
      Instructions: Please complete this reading in its entirety.  
@@ -85,7 +85,7 @@ sustainability will be the subject of the last sections of this unit.*
 -   **Reading: Citizendium’s “Fiscal Policy Tutorial: Fiscal
     Stability”**
     Link: Citizendium’s [“Fiscal Policy Tutorial: Fiscal
-    Stability”](http://www.saylor.org/site/wp-content/uploads/2012/06/Fiscal-policy.pdf) (PDF)  
+    Stability”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Fiscal-policy.pdf) (PDF)  
         
      Instructions: Please read the entire article.  Pay attention, in
     particular, to the fiscal dilemma.  

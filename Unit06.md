@@ -55,7 +55,7 @@ States** <span id="6.1"></span> 
 -   **Reading: EOEarth.org: Brian Roach’s “Taxation in the United
     States”**
     Link: EOEarth.org: Brian Roach’s [“Taxation in the United
-    States”](http://www.saylor.org/site/wp-content/uploads/2012/06/Taxation-in-the-United-States.pdf)
+    States”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Taxation-in-the-United-States.pdf)
     (PDF)  
         
      Instructions: Open the link to the reading above. Please read the
@@ -71,9 +71,9 @@ States** <span id="6.1"></span> 
 -   **Reading: Wikipedia’s “Government Spending” and “2010 United States
     Federal Budget”**
     Link: Wikipedia’s [“Government
-    Spending”](http://www.saylor.org/site/wp-content/uploads/2012/06/GovernmentSpending.pdf)
+    Spending”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/GovernmentSpending.pdf)
     (PDF) and [“2010 United States Federal
-    Budget”](http://www.saylor.org/site/wp-content/uploads/2012/06/2010USFederalBudget.pdf)
+    Budget”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/2010USFederalBudget.pdf)
     (PDF)  
         
      Instructions: Please read both articles in their entirety.  To get
@@ -95,7 +95,7 @@ id="6.1.4"></span> 
     Budget?” and California’s Legislative Analyst’s Office’s “Cal Facts
     2006: State Budget”**
     Link: Dave Johnson’s [“How does California Develop the State’s
-    Budget?”](http://www.saylor.org/site/wp-content/uploads/2012/06/How-Does-California-Develop-the-States-Budget.pdf)
+    Budget?”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/How-Does-California-Develop-the-States-Budget.pdf)
     (PDF) and California’s Legislative Analyst’s Office’s [“Cal Facts
     2006: State
     Budget”](http://www.lao.ca.gov/2006/cal_facts/2006_calfacts_budget.htm#budget) (HTML)  
@@ -127,7 +127,7 @@ id="6.2.1"></span> 
     question…”**
     Link: Economics in Plain English’s [“Obama versus the supply-siders
     – to extend the Bush tax cuts or not? That is the
-    question…”](http://www.saylor.org/site/wp-content/uploads/2012/06/Obama-versus-the-supply-siders.pdf)
+    question…”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Obama-versus-the-supply-siders.pdf)
     (PDF)  
         
      Instructions: Please open the link above to read the article in its
@@ -146,10 +146,10 @@ id="6.2.1"></span> 
 -   **Reading: Ron Paul’s “On More Stimulus Spending” and Dustin
     Ensinger’s “Stimulus Package has Created Jobs, Boosted Economy”**
     Link: Ron Paul’s [“On More Stimulus
-    Spending”](http://www.saylor.org/site/wp-content/uploads/2012/06/On-More-Stimulus-Spending.pdf)
+    Spending”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/On-More-Stimulus-Spending.pdf)
     (PDF) and Dustin Ensinger’s [“Stimulus Package has Created Jobs,
     Boosted
-    Economy”](http://www.saylor.org/site/wp-content/uploads/2012/06/Stimulus-Package-has-Created-Jobs.pdf)
+    Economy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Stimulus-Package-has-Created-Jobs.pdf)
     (PDF)  
         
      Instructions:  Please read both articles in their entirety.  These
@@ -191,7 +191,7 @@ id="6.2.3"></span> 
     and Mike Pence”**
     Link: Bruce Bartlett’s [“A Dopey Budget Idea from Jeb Hensarling and
     Mike
-    Pence”](http://www.saylor.org/site/wp-content/uploads/2012/06/A-Dopey-Budget-Idea.pdf) (PDF)  
+    Pence”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/A-Dopey-Budget-Idea.pdf) (PDF)  
         
      Instructions:  Please read this blog entry in its entirety.  This
     reading is a response to this interview and OP-ED mentioned in the
