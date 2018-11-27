@@ -27,7 +27,7 @@ the Graham-Rudman Act, and the Base Realignment and Closure Commission.*
 id="4.1"></span> 
 -   **Reading: MBA651’s “Public Goods & Rent Seeking: Rent Seeking”**
     Link: MBA651’s [“Public Goods & Rent Seeking: Rent
-    Seeking”](http://www.saylor.org/site/wp-content/uploads/2012/06/Public-Goods-Rent-Seeking.pdf)
+    Seeking”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Public-Goods-Rent-Seeking.pdf)
     (PDF)  
         
      Instructions: Please read the section titled “Rent Seeking.”  
@@ -55,7 +55,7 @@ id="4.1"></span> 
 id="4.2.1"></span> 
 -   **Reading: Wikibook’s “Industry Protection”**
     Link: Wikibook’s [“Industry
-    Protection”](http://www.saylor.org/site/wp-content/uploads/2012/06/Transportation-Economics.pdf)
+    Protection”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Transportation-Economics.pdf)
     (PDF)  
         
      Instructions: Please read the section titled “Industry
@@ -73,9 +73,9 @@ Interests** <span id="4.2.2"></span> 
 -   **Reading: NMcBeth’s “Synopsis of Interest Group Theory” and
     Wikipedia’s “Iron Triangle”**
     Link: NMcBeth’s [“Synopsis of Interest Group
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/06/Synopsis-of-Interest-Group.pdf)
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Synopsis-of-Interest-Group.pdf)
     (PDF) and Wikipedia’s [“Iron
-    Triangle”](http://www.saylor.org/site/wp-content/uploads/2012/06/IronTriangle.pdf) (PDF)  
+    Triangle”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/IronTriangle.pdf) (PDF)  
       
      Instructions:  Please read both texts in their entirety, paying
     particular attention in the NMcBeth reading to how interest groups
@@ -99,11 +99,11 @@ Interests** <span id="4.2.2"></span> 
     World’s “Military Bases Are No Solution for Jobs, Economy”**
     Link: Rent Seeker Watch’s [“Premium Tobacco Seeking Tax to Hurt
     Generic
-    Brand”](http://www.saylor.org/site/wp-content/uploads/2012/06/Premium-Tobacco-Seeking-Tax.pdf)
+    Brand”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Premium-Tobacco-Seeking-Tax.pdf)
     (PDF) and [“Sleezy Realtors Stop Rent
-    Seeking”](http://www.saylor.org/site/wp-content/uploads/2012/06/Sleezy-Realtors.pdf) (PDF);
+    Seeking”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Sleezy-Realtors.pdf) (PDF);
     People's World’s [“Military Bases Are No Solution for Jobs,
-    Economy”](http://www.saylor.org/site/wp-content/uploads/2012/06/Military-bases-are-no-solution-for-jobs.pdf)
+    Economy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Military-bases-are-no-solution-for-jobs.pdf)
     (PDF)  
         
      Instructions:  Please read all of these articles in their entirety,
@@ -129,7 +129,7 @@ Interests** <span id="4.2.2"></span> 
 **4.3.1 The Grace Commission** <span id="4.3.1"></span> 
 -   **Reading: Wikipedia’s “The Grace Commission”**
     Link: Wikipedia’s [“The Grace
-    Commission”](http://www.saylor.org/site/wp-content/uploads/2012/06/GraceCommission.pdf) (PDF)  
+    Commission”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/GraceCommission.pdf) (PDF)  
         
      Instructions: Please open the link above and complete the reading
     about The Grace Commission in its entirety.  
@@ -143,7 +143,7 @@ Interests** <span id="4.2.2"></span> 
 **4.3.2 Gramm-Rudman Act** <span id="4.3.2"></span> 
 -   **Reading: Wikipedia’s “Gramm Rudman Hollings Balanced Budget Act”**
     Link: Wikipedia’s [“Gramm Rudman Hollings Balanced Budget
-    Act”](http://www.saylor.org/site/wp-content/uploads/2012/06/GrammRudman.pdf) (PDF)  
+    Act”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/GrammRudman.pdf) (PDF)  
         
      Instructions: Please complete this reading in its entirety.  
       
@@ -157,7 +157,7 @@ Interests** <span id="4.2.2"></span> 
 id="4.3.3"></span> 
 -   **Reading: Wikipedia’s “Base Realignment and Closure Commission”**
     Link: Wikipedia’s [“Base Realignment and Closure
-    Commission”](http://www.saylor.org/site/wp-content/uploads/2012/06/BaseRealignment.pdf) (PDF)  
+    Commission”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/BaseRealignment.pdf) (PDF)  
         
      Instructions: Please complete this reading in its entirety.  
       
@@ -192,7 +192,7 @@ id="4.3.3"></span> 
     Privatization and the Political Issues”**
     Link: Dimitar Dimitrov’s [“The Potential Benefits of Privatization
     and the Political
-    Issues”](http://www.saylor.org/site/wp-content/uploads/2012/06/The-potential-benefits-of-Privatization.pdf)
+    Issues”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-potential-benefits-of-Privatization.pdf)
     (PDF)  
         
      Instructions: Please read this text in its entirety, paying
@@ -207,7 +207,7 @@ id="4.3.3"></span> 
 **4.3.6 Public-Private Partnership** <span id="4.3.6"></span> 
 -   **Reading: Wikipedia’s “Public-Private Partnership”**
     Link: Wikipedia’s [“Public-Private
-    Partnership”](http://www.saylor.org/site/wp-content/uploads/2012/06/PublicPrivate.pdf) (PDF)  
+    Partnership”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PublicPrivate.pdf) (PDF)  
         
      IInstructions: Please click on the link above to access the
     document.  Complete this reading in its entirety (7 pages).  

@@ -26,7 +26,7 @@ id="3.1"></span> 
 **3.1.1 Types of Subsidies** <span id="3.1.1"></span> 
 -   **Reading: Wikipedia’s “Subsidy”**
     Link: Wikipedia’s
-    [“Subsidy”](http://www.saylor.org/site/wp-content/uploads/2012/06/Subsidy.pdf) (PDF)  
+    [“Subsidy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Subsidy.pdf) (PDF)  
       
      Instructions: Please read the entire text, paying particular
     attention to the section titled “Types of Subsidies.”  
@@ -80,9 +80,9 @@ id="3.1"></span> 
 -   **Reading: Thomas J. DiLorenzo’s “Farmed Robbery” and Wikipedia’s
     “Agricultural Subsidy”**
     Link: Thomas J. DiLorenzo’s [“Farmed
-    Robbery”](http://www.saylor.org/site/wp-content/uploads/2012/06/Farmed-Robbery.pdf)
+    Robbery”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Farmed-Robbery.pdf)
     (PDF) and Wikipedia’s [“Agricultural
-    Subsidy”](http://www.saylor.org/site/wp-content/uploads/2012/06/FarmSubsidy.pdf) (PDF)  
+    Subsidy”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/FarmSubsidy.pdf) (PDF)  
       
      Instructions: Please read the entire text of both articles.  
         
@@ -117,10 +117,10 @@ id="3.1"></span> 
     Recommendations” and The Saylor Foundation’s handout on
     "Unemployment Benefits and Labor-Leisure Tradeoff.”**
     Link: Mary B. Larner et al’s [“Welfare to Work: Analysis and
-    Recommendations”](http://www.saylor.org/site/wp-content/uploads/2012/06/Welfare-to-Work.pdf)
+    Recommendations”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Welfare-to-Work.pdf)
     (PDF) and The Saylor Foundation’s handout on [“Unemployment Benefits
     and Labor-Leisure
-    Tradeoff”](http://www.saylor.org/site/wp-content/uploads/2011/05/ECON305-3.3.3-Labor-LeisureHandout2.pdf)
+    Tradeoff”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ECON305-3.3.3-Labor-LeisureHandout2.pdf)
     (PDF)  
       
      Instructions: Please read both of these texts.    

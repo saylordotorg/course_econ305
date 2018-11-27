@@ -80,7 +80,7 @@ id="1.1.1"></span> 
     Supply and Demand.”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis:* “2.1
     Supply and
-    Demand”](http://www.saylor.org/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=14) (PDF)  
+    Demand”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=14) (PDF)  
         
      Also available in:  
      [Microsoft Word Document (Zip
@@ -101,7 +101,7 @@ id="1.1.1"></span> 
     “5.2.8 Edgeworth Box.”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis:* “5.2.8
     Edgeworth
-    Box”](http://www.saylor.org/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=187) (PDF)  
+    Box”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=187) (PDF)  
         
      Also available in:  
      [Microsoft Word Document (Zip
@@ -136,9 +136,9 @@ id="1.2"></span> 
     Public Goods”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis:* “6.4:
     Public
-    Goods”](http://www.saylor.org/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=232)
+    Goods”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=232)
     (PDF) and Randall G. Holcombe’s [“A Theory of the Theory of Public
-    Goods](http://www.saylor.org/site/wp-content/uploads/2012/07/RAE10_1_1.pdf)”
+    Goods](https://resources.saylor.org/archived/wp-content/uploads/2012/07/RAE10_1_1.pdf)”
     (PDF)  
         
      Also available in: (Preston McAfee)  
@@ -173,7 +173,7 @@ id="1.2.2"></span> 
     “6.4.2: Free Riders” and “6.4.3 Provision with Taxation”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis: *“6.4.2:
     Free Riders” and “6.4.3 Provision with
-    Taxation”](http://www.saylor.org/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=233) (PDF)  
+    Taxation”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=233) (PDF)  
         
      Also available in:  
      [Microsoft Word Document (Zip
@@ -194,7 +194,7 @@ id="1.2.2"></span> 
     “6.4.4: Local Public Goods”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis: *“6.4.4:
     Local Public
-    Goods”](http://www.saylor.org/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=236) (PDF)  
+    Goods”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=236) (PDF)  
         
      Also available in:  
      [Microsoft Word Document (Zip
@@ -230,7 +230,7 @@ id="1.2.2"></span> 
 -   **Reading: Preston McAfee’s Introduction to Economic Analysis: “6.3
     Externalities”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis: *“6.3
-    Externalities”](http://www.saylor.org/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=219)
+    Externalities”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=219)
     (PDF)  
         
      Also available in:  
@@ -252,7 +252,7 @@ id="1.2.2"></span> 
     “6.3.2 Pigouvian Taxes”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis: *“6.3.2
     Pigouvian
-    Taxes”](http://www.saylor.org/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=223)
+    Taxes”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=223)
     (PDF)  
         
      Also available in:  
@@ -274,7 +274,7 @@ id="1.2.2"></span> 
     “6.3.5 Coasian Bargaining”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis: *“6.3.5
     Coasian
-    Bargaining”](http://www.saylor.org/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=226) (PDF)  
+    Bargaining”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=226) (PDF)  
         
      Also available in:  
      [Microsoft Word Document (Zip
