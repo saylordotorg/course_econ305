@@ -30,13 +30,13 @@ much they are willing to work based on the taxation of income.*
     “A Short History of the Income Tax”**
     Link: Kurt Wise et al’s [*Understanding Our Tax System: A Primer for
     Active Citizens: *“The Personal Income
-    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=32)
+    Tax”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=32)
     (PDF) and Tamahome Jenkins’ [“A Short History of the Income
-    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/A-Short-History-of-the-Federal-Income-Tax.pdf) (PDF)  
+    Tax”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/A-Short-History-of-the-Federal-Income-Tax.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
       
      Instructions: Please read the entirety of both readings.  The Wise
     et al reading is Kurt Wise and Noah Berger's guidebook, which is
@@ -62,13 +62,13 @@ much they are willing to work based on the taxation of income.*
     for Active Citizens: “Business Taxes and Corporate Income Tax”**
     Link: Kurt Wise et al’s *Understanding Our Tax System: A Primer for
     Active Citizens: *[“Business
-    Taxes”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=66) (PDF)
+    Taxes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=66) (PDF)
     and [“Corporate Income
-    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=69) (PDF)  
+    Tax”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=69) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
       
      Instructions: Please read both selections from Kurt Wise and Noah
     Berger’s guidebook, which is publicly available under a creative
@@ -87,13 +87,13 @@ much they are willing to work based on the taxation of income.*
     Dave Farnsworth’s “Sales Tax”**
     Link: Kurt Wise et al’s [Understanding Our Tax System: A Primer for
     Active Citizens: “General Sales
-    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=47)
+    Tax”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=47)
     (PDF) and Dave Farnsworth’s [“Sales
-    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2011/01/Sales-Tax.pdf) (PDF)  
+    Tax”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/01/Sales-Tax.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
       
      Note on the Text: Please read both readings.  The Wise et al
     reading is Kurt Wise and Noah Berger’s guidebook, which is publicly
@@ -114,13 +114,13 @@ much they are willing to work based on the taxation of income.*
     Property Taxes”**
     Link: Kurt Wise et al’s [*Understanding Our Tax System: A Primer for
     Active Citizens: *“Property
-    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=21)
+    Tax”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=21)
     (PDF) and Roby Smith’s [“Understanding Property
-    Taxes”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Understanding-Property-Taxes.pdf) (PDF)  
+    Taxes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Understanding-Property-Taxes.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
       
      Instructions: Please read both readings.  The Wise et al reading is
     Kurt Wise and Noah Berger’s guidebook, which is publicly available
@@ -144,11 +144,11 @@ much they are willing to work based on the taxation of income.*
     for Active Citizens: “Selective Sales Tax”**
     Link: Kurt Wise et al’s [*Understanding Our Tax System: A Primer for
     Active Citizens: *“Overview of Selective Sales
-    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=59) (PDF)  
+    Tax”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=59) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
       
      Instructions: Please read this selection.  The Wise et al reading
     is Kurt Wise and Noah Berger’s guidebook, which is publicly
@@ -164,7 +164,7 @@ much they are willing to work based on the taxation of income.*
 **2.1.6 Head Taxes** <span id="2.1.6"></span> 
 -   **Reading: New World Encyclopedia’s: “Poll Tax”**
     Link: New World Encyclopedia’s: [“Poll
-    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Poll-tax.pdf)
+    Tax”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Poll-tax.pdf)
     (PDF)  
         
      Instructions: Click on the above link to access the reading. 
@@ -184,12 +184,12 @@ id="2.1.7"></span> 
     for Active Citizens: “Standard Criteria for Taxes and Tax Systems”**
     Link: Kurt Wise et al’s [*Understanding Our Tax System: A Primer for
     Active Citizens: *“Five Criteria for Assessing Taxes and Tax
-    Systems”](https://resources.saylor.org/archived/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=5)
+    Systems”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/12/Econ305-Understanding-Tax-System-12-13-12.pdf#page=5)
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/07/ECON305-2.1.1-guidebook-Understanding-Our-Tax-System_-A-Primer-for-Active-Citizens_-_Personal-Income-Doug-Howgate.epub)  
       
      Instructions:  Please read this selection.  The Wise et al reading
     is Kurt Wise and Noah Berger’s guidebook, which is publicly
@@ -249,7 +249,7 @@ id="2.2.1"></span> 
 -   **Reading: Preston McAfee’s Introduction to Economic Analysis: “6.1
     Taxes”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis: *“6.1
-    Taxes”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=201) (PDF)  
+    Taxes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=201) (PDF)  
         
      Also available in:  
      [Microsoft Word Document (Zip
@@ -270,7 +270,7 @@ id="2.2.1"></span> 
     “6.1.3 Taxes: Excess Burden of Taxation”**
     Link: Preston McAfee’s [*Introduction to Economic Analysis: *“6.1.3
     Taxes: Excess Burden of
-    Taxation”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=206)
+    Taxation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/PrestonMcAfeeEconAnalysis1.pdf#page=206)
     (PDF)  
         
      Also available in:  
@@ -292,7 +292,7 @@ id="2.2.1"></span> 
     “XXVIII. INTERFERENCE BY TAXATION: The Neutral Tax”**
     Link: Ludwig von Mises’ [*Human Action: The Scholars
     Edition: *“XXVIII. INTERFERENCE BY TAXATION: The Neutral
-    Tax”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Neutral-Tax.pdf)
+    Tax”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/The-Neutral-Tax.pdf)
     (PDF)  
         
      Instructions: Click on the above link to access the reading. 
@@ -310,10 +310,10 @@ id="2.2.1"></span> 
     Preston McAfee’s Introduction to Economic Analysis: “2.4.1
     Elasticity of Demand”**
     Link: The Saylor Foundation’s [“Handout on Ramsey
-    Taxation”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ECON305-2.2.4-RamseyHandout.pdf)
+    Taxation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ECON305-2.2.4-RamseyHandout.pdf)
     (PDF) and Preston McAfee’s [*Introduction to Economic Analysis:*
     “2.4.1 Elasticity of
-    Demand”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/Introduction-to-Economic-Analysis.pdf) (PDF)  
+    Demand”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/Introduction-to-Economic-Analysis.pdf) (PDF)  
       
      Also available in (Preston McAfe):  
      [Microsoft Word Document (Zip
@@ -336,7 +336,7 @@ id="2.2.1"></span> 
 **2.2.5 Lindahl Tax** <span id="2.2.5"></span> 
 -   **Reading: The Saylor Foundation’s “Handout on Lindahl Taxation”**
     Link: The Saylor Foundation’s [“Handout on Lindahl
-    Taxation”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ECON305-2.2.5-Lindahl-Handout-FINAL.pdf) (PDF)  
+    Taxation”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ECON305-2.2.5-Lindahl-Handout-FINAL.pdf) (PDF)  
       
      Instructions: Please read the entire handout.  When reading, think
     about how much you might be willing to pay for different public
@@ -350,10 +350,10 @@ id="2.2.6"></span> 
     Economic Analysis: “5.2.2 Labor Supply”**
     Link: The Saylor Foundation’s handout on [“Income Tax
     and Labor-Leisure
-    Tradeoff”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/ECON305-2.2.6-LaborLeisure1.pdf)
+    Tradeoff”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/ECON305-2.2.6-LaborLeisure1.pdf)
     (PDF) and Preston McAfee’s ** [*Introduction to Economic Analysis*:
     “5.2.2 Labor
-    Supply”](https://resources.saylor.org/archived/wp-content/uploads/2012/09/Introduction-to-Economic-Analysis.pdf)
+    Supply”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/09/Introduction-to-Economic-Analysis.pdf)
     (PDF)  
       
      Also available in (Preston McAfee):  
@@ -378,9 +378,9 @@ id="2.2.6"></span> 
 -   **Reading: Charles Kelly’s “Laffer Curve and Tax Revenue” and
     Wikipedia’s “Laffer-Curve”**
     Link: Charles Kelly’s [“Laffer Curve and Tax
-    Revenue”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Laffer-Curve-And-Tax-Revenue.pdf)
+    Revenue”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Laffer-Curve-And-Tax-Revenue.pdf)
     (PDF) and Wikipedia’s [“Laffer
-    Curve”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/LafferCurve.pdf) (PDF)  
+    Curve”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/LafferCurve.pdf) (PDF)  
          
      Instructions: Please read the Kelly reading in its entirety through
     the above link.  You can see an example of a Laffer Curve by
@@ -401,9 +401,9 @@ id="2.2.6"></span> 
 -   **Reading: Rok Spruk’s “Tax Policy and Laffer Curve” and Liberal
     American’s “The Laffer Curve Comes Back from the Dead”**
     Link: Rok Spruk’s [“Tax Policy and Laffer
-    Curve”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Tax-Policy-and-Laffer-Curve.pdf)
+    Curve”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Tax-Policy-and-Laffer-Curve.pdf)
     (PDF) and Liberal American’s [“The Laffer Curve Comes Back from the
-    Dead”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/The-Laffer-Curve-Comes-Back-from-the-Dead.pdf)
+    Dead”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/The-Laffer-Curve-Comes-Back-from-the-Dead.pdf)
     (PDF)  
         
      Instructions: These two readings are optional.  The Laffer curve
